@@ -1,4 +1,4 @@
-
+# Game of craps
 
 In the game of craps, a pass line bet proceeds as follows: Two six-sided dice are
 rolled; the first roll of the dice in a craps round is called the “come out roll.”
