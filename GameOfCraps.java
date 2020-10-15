@@ -2,7 +2,7 @@ package CH03;
 
 import java.util.Random;
 
-public class Exercise3_2 {
+public class GameOfCraps {
     public static void main(String[] args) {
         int winCount = 0, loseCount = 0,
                 point, diceOne, diceTwo, diceTotal;
